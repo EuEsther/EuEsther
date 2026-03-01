@@ -86,11 +86,6 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EuEsther&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=true&order=1" height="190px" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EuEsther&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="190px" alt="languages graph"  />
-</div>
-
 ###
 
 <picture>
