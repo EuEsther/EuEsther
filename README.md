@@ -44,6 +44,8 @@
   <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge" height="30" alt="Plotly logo" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" height="30" alt="Streamlit logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" height="30" alt="PowerBI logo" />
 </div>
 
 ###
